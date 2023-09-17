@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(0.4317,0,0,1.29192,91.8654,-785.478)">
+        <rect x="380.205" y="607.993" width="593.005" height="396.309" style="fill:rgb(64,64,64);"/>
+    </g>
+    <g transform="matrix(0.4317,0,0,1.29192,-164.135,-785.479)">
+        <rect x="380.205" y="607.993" width="593.005" height="396.309" style="fill:rgb(64,0,0);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,109.463,94.47)">
+        <g transform="matrix(0.641149,0,0,0.641149,0,0)">
+            <path d="M226.898,372.958L226.898,503.798C204.973,503.64 183.759,500.484 163.726,494.65C139.278,487.709 116.564,476.824 96.296,462.788C73.346,447.015 53.551,427.298 38.014,404.505C13.96,369.488 0,327.531 0,282.42L0,0L135.098,0L135.098,282.42C135.098,325.954 166.96,362.391 209.232,370.986C214.989,372.171 220.825,372.879 226.898,372.958Z" style="fill:rgb(64,64,64);fill-rule:nonzero;"/>
+        </g>
+        <g transform="matrix(0.641149,0,0,0.641149,0,0)">
+            <path d="M457.108,0L457.108,282.42C457.108,397.329 366.333,492.126 250.558,502.772C243.303,503.561 235.968,503.877 228.555,503.877C228.003,503.877 227.451,503.798 226.899,503.798L226.899,372.958L228.555,372.958C280.133,372.958 322.011,332.343 322.011,282.42L322.011,0L457.108,0Z" style="fill:rgb(64,0,0);fill-rule:nonzero;"/>
+        </g>
+        <g transform="matrix(0.641149,0,0,0.641149,0,0)">
+            <rect x="0" y="0" width="135.098" height="80.366" style="fill:white;"/>
+        </g>
+        <g transform="matrix(0.641149,0,0,0.641149,0,0)">
+            <rect x="322.01" y="0" width="135.098" height="80.366" style="fill:white;"/>
+        </g>
+    </g>
+</svg>
